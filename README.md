@@ -2,7 +2,7 @@
 
 Comic Relief Contentful custom richText power by [Quill](https://quilljs.com/).
 
-Extension to allow users to use custom buttons, links and text colours.
+Extension to enhance the editing experience for our content creators.
 
 ---
 
