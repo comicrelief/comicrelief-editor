@@ -1,0 +1,6 @@
+{
+  "id": "cr-editor",
+  "name": "cr-editor",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": ["Text", "RichText"]
+}
